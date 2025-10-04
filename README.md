@@ -2,7 +2,6 @@
 
 A web application for food delivery service with a Flask backend and MySQL database.
 
-## Setup Instructions
 
 1. Make sure you have MySQL installed and running on your system.
 
