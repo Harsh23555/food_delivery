@@ -36,7 +36,7 @@ A test user is automatically created in the database:
 - Email: test@example.com
 - Password: 123456
 
-## Features
+## Feature
 
 - Responsive frontend with multiple pages
 - User authentication (login/signup)
